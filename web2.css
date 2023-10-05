@@ -6,7 +6,7 @@ html{
 
 body{
     
-    background-image: linear-gradient(rgba(22, 22, 50, 0.995),rgba(80, 12, 99, 0.982)),url(images/moonstar.jpg);
+    background-image: linear-gradient(rgba(22, 22, 50, 0.995),rgba(80, 12, 99, 0.982)),url(moonstar.jpg);
     padding-top: 50px;
     background-attachment: fixed;
     background-size: cover;
