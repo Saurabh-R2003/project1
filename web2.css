@@ -476,14 +476,14 @@ a:hover{
     }
     .login{
         align-items: center;
-        height: 1800px;
+        height: 2000px;
     }
   .loginbox{
     width: 900px;
     height:1200px;
     margin-top: 160px;
     float: none;
-    margin-left: 85px;
+    margin-left: 10px;
     border-radius: 5%;
   }
   .login h2{
