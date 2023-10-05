@@ -474,21 +474,65 @@ a:hover{
         margin-right: 97px;
         margin-top: 30px;
     }
-    #register{
-        height: 750px;
+    .login{
+        align-items: center;
+        height: 1800px;
     }
   .loginbox{
+    width: 900px;
+    height:1200px;
     margin-top: 160px;
+    float: none;
+    margin-left: 85px;
+    border-radius: 5%;
   }
   .login h2{
     margin-top: 70px;
-    margin-left: 20px;
+    margin-right: 40px;
+    font-size: 90px;
     
   }
   .intro button{
     margin-top: 60px;
     margin-right: 190px;
+    width:250px;
+    height:70px;
+    font-size: 30px;
   }
+
+ 
+  .sublogin{
+    align-items: center;
+    font-size: 50px;
+    color:rgb(246, 46, 239);
+}
+.sublogin h3{
+    margin-top:70px;
+    font-size: 90px;
+    color: rgba(202, 79, 255, 0.881);
+}
+.sea{
+    height:110px;
+    width:auto;
+    border-radius: 5px;
+    font-size:45px;
+   
+}
+
+.sea::placeholder{
+    font-size: 45px;
+}
+
+.logbtn{ 
+    height:110px;
+    width:250px;
+    font-size:50px;
+    border-radius: 10%;
+   
+}
+
+
     
+
 
 }
