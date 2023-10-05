@@ -499,7 +499,10 @@ a:hover{
     height:70px;
     font-size: 30px;
   }
-
+.intro buttton:hover{
+    width:253px;
+    height:73px;
+}
  
   .sublogin{
     align-items: center;
