@@ -438,3 +438,57 @@ a:hover{
 
 
 }
+
+@media screen and (max-width:1080px)
+{
+    .container{
+        width: 900px;;
+       
+        margin-left: 70px;
+        margin-top: 30px;
+        
+       
+    }
+    .menu li{
+        visibility: collapse;
+    }
+    .txtinfo{
+        height: 900px;
+    }
+
+    .search{
+        width: 40%;
+    }
+    .items{
+        height: auto;
+        
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+    }
+    .item1{
+        margin-left: 97px;
+        margin-top: 30px;
+    }
+    .item2{
+        margin-right: 97px;
+        margin-top: 30px;
+    }
+    #register{
+        height: 750px;
+    }
+  .loginbox{
+    margin-top: 160px;
+  }
+  .login h2{
+    margin-top: 70px;
+    margin-left: 20px;
+    
+  }
+  .intro button{
+    margin-top: 60px;
+    margin-right: 190px;
+  }
+    
+
+}
