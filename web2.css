@@ -365,7 +365,7 @@ a:hover{
 
 .login{
     width: 100%;
-    height:500px;
+    height:570px;
     background-color:rgba(15, 15, 36, 0.406) ;
     
 }
@@ -376,7 +376,7 @@ a:hover{
     float:right;
     padding: 0;
     margin:80px;
-    margin-top: 50px;
+    margin-top: -60px;
     background-color:rgba(12, 12, 30, 0.406);
     text-align: center;
     font-family: 'poppins',sans-serif;
@@ -435,6 +435,7 @@ a:hover{
     color:rgba(202, 79, 255, 0.881) ;
     text-align: center;
     font-size: xx-large;
+    margin-right:450px;
 
 
 }
